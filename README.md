@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/MrZalTy/node-template">
+<p align="center"><a href="https://github.com/MrZalTy/next-template">
   <img src=".github/assets/logo.svg" width="80" alt="Logo" /></a>
 </p>
 
